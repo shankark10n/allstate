@@ -1,1 +1,1 @@
-# Files for Allstate Kaggle contest
+Files for Allstate Kaggle contest
